@@ -2,6 +2,8 @@
 
 # LG Display 생산·품질 업무 보고서 웹 서비스
 
+<img width="493" height="398" alt="2026-09-14_171234" src="https://github.com/user-attachments/assets/461b2edf-fd31-4f49-971e-d2c95f700ded" />
+
 **날짜 : 09월 14일**
 
 ## 1. 프로젝트 설명
